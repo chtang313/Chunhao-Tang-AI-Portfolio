@@ -28,25 +28,6 @@ Interested in applying AI to real-world problems in automation, robotics, and in
 - ITCC 1414 / ITCC 1444 – CCNA Networking  
 - ITSY 1342 / ITSY 2443 – Information Security and Computer Forensics  
 
-## 📂 Course Projects
-
-### Deep Learning (ITAI 2376)
-- Project 1: AI Chatbot – Building an AI chatbot from scratch  
-- Project 2: Image Creation with Diffusion Model – Training a diffusion model to create images  
-[→ View projects](./DeepLearning-ITAI2376/)
-
-### Natural Language Processing (ITAI 2373)
-- Project: Sentiment Analysis – Detecting reviews/comments sentiment  
-[→ View projects](./NLP-ITAI2373/)
-
-### Data Science & AI (ITAI 2377)
-- Project: Ground Team Retail Store Assignment – Assigning hundreds of retail stores to several ground team members in minutes  
-[→ View projects](./DataScience-ITAI2377/)
-
-### AI Applications / Computer Vision
-- Project: Pedestrian Detection – Building and understanding how pedestrian detection works using computer vision  
-[→ View projects](./AI-Applications-or-CompVision/)
-
 ## 💻 Skills
 - **Languages:** Python, SQL  
 - **AI & ML:** Machine Learning, Deep Learning, NLP, Computer Vision, Data Science  
