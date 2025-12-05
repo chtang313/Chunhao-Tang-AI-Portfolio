@@ -1,4 +1,4 @@
-# 🐾 Computer Vision Image Recognition – Lab 08
+# 🐾 Computer Vision Image Recognition
 
 A hands-on introduction to how images are represented, visualized, and preprocessed for basic computer vision workflows. This project shows how raw image data is turned into usable input for machine learning models using Python.
 
